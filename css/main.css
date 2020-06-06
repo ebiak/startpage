@@ -1,6 +1,6 @@
 :root {
-    --base03: #2d2d2d;
-    --red: #BF616A;
+    --base03: #575757;
+    --red: #cd838a;
     --green: #A3BE8C;
     --blue: #5E81AC;
     --magenta: #B48EAD;
@@ -13,7 +13,7 @@ body, body * {
     box-sizing: unset;
     padding: unset;
     font-size: 16px;
-    color: #839496;
+    color: #b8b3a9;
     text-decoration: unset;
 }
 
@@ -78,7 +78,7 @@ input {
     border: 0px solid var(--blue);
     padding: 20px;
     border-radius: 5px;
-    background-color:  #383838;
+    background-color:  #35383b;
 }
 
 .terminal-screen:hover {
