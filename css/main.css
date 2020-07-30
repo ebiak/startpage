@@ -63,7 +63,7 @@ ul {
 }
 
 input {
-    background-color:  #383838;
+    background-color:  #35383b;
     caret-color: var(--base0);
     outline: none;
     border: none;
@@ -148,7 +148,7 @@ input {
 .main:hover,
 .social:hover,
 .programming:hover {
-    background-color:  #383838;
+    background-color:  #35383b;
 }
 
 .main {
