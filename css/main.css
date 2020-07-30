@@ -120,7 +120,7 @@ input {
 #search-bar {
     order: 4;
     overflow: hidden;
-    background:  #383838;
+    background:  #35383b;
     font-family: "Iosevka";
     display: flex;
 }
