@@ -18,7 +18,7 @@ body, body * {
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     .links-container {
         flex-direction: column !important;
         order: 2 !important;        
